@@ -52,7 +52,9 @@ namespace palindrome
 
 ```
 ## Output:
+### Palindrome :
 ![op](c2.png);
+### Not Palindrome :
 ![op](c21.png);
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
